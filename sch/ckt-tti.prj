@@ -1,0 +1,6 @@
+schematics ckt-tti.sch
+output-name ../pcb/ckt-tti
+skip-m4
+elements-dir ../../ise-footprints
+
+
